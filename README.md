@@ -27,8 +27,7 @@
 
 ### 🤝 Let’s connect
 - 💼 LinkedIn: [Andrés Bejarano](https://www.linkedin.com/in/andres-bejarano-6765aa241/)
+
 - ✉️ Open to collaborations, projects, or bold ideas.
 
----
-
-<p align="center"><i>Design for people, build for the future.</i></p>
+Feel free to reach out!🚀
