@@ -1,16 +1,34 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Andrés! 👋</h1>
 
-<!--
-**andres-bs12/andres-bs12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🧭 Snapshot
+- 📍 Based in Vienna, Austria — open to connect with the EU tech community.
+- 🎨 4 years in UX/UI design, now leveling up into software development.
+- ☕ Java bootcamp student; I prototype and automate with Python on the side.
+- 🤖 Curious about new tech: AI agents, automations, and anything experimental.
 
-Here are some ideas to get you started:
+### 🚀 What I’m learning
+- Java for solid backend foundations (structures, patterns, clean practices).
+- Python for quick scripts, data wrangling, and automation.
+- Practical AI tools to bridge product ideas with real-world impact.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Design × Code
+- User-centered design translated into build-ready features.
+- Fast loops: prototype → feedback → development.
+- Clear documentation so designers and engineers stay aligned.
+
+### 🌟 What drives me
+- Blending design and engineering to ship memorable experiences.
+- Building simple, maintainable solutions that people actually enjoy using.
+
+### 📚 Currently exploring
+- Java tooling and testing to write reliable services.
+- Python workflows for automation and data pipelines.
+- AI agent experiments to speed up product ideation.
+
+### 🤝 Let’s connect
+- 💼 LinkedIn: [Andrés Bejarano](https://www.linkedin.com/in/andres-bejarano-6765aa241/)
+- ✉️ Open to collaborations, projects, or bold ideas.
+
+---
+
+<p align="center"><i>Design for people, build for the future.</i></p>
