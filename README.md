@@ -26,7 +26,7 @@
 - AI agent experiments to speed up product ideation.
 
 ### 🤝 Let’s connect
-- 💼 LinkedIn: [Andrés Bejarano]([https://www.linkedin.com/in/andres-bejarano-6765aa241/](https://www.linkedin.com/in/andres-bejarano-hey/))
+- 💼 LinkedIn: [Andrés Bejarano] (https://www.linkedin.com/in/andres-bejarano-6765aa241/](https://www.linkedin.com/in/andres-bejarano-hey/)
 
 - ✉️ Open to collaborations, projects, or bold ideas.
 
