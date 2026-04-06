@@ -48,11 +48,3 @@ When the IDE is closed, I am usually pushing my physical limits in **Vienna**:
 ---
 ### 🤝 Let's connect
 * 💼 **LinkedIn:** [Andrés Bejarano](https://www.linkedin.com/in/andres-bejarano-hey/)
-* ✉️ Reach out if you want to talk about Java, UX-to-Dev transitions, or marathon training.
-
----
-
-### 📈 My GitHub Stats
-![Andres's Stats](https://github-readme-stats.vercel.app/api?username=andres-bs12&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andres-bs12&layout=compact&theme=tokyonight&hide_border=true)
