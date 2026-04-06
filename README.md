@@ -1,33 +1,58 @@
-<h1 align="center">Hi, I'm Andrés! 👋</h1>
+# Hi, I'm Andrés! 👋
 
-### 🧭 Snapshot
-- 📍 Based in Vienna, Austria — open to connect with the EU tech community.
-- 🎨 4 years in UX/UI design, now leveling up into software development.
-- ☕ Java bootcamp student; I prototype and automate with Python on the side.
-- 🤖 Curious about new tech: AI agents, automations, and anything experimental.
+I spent the last 4 years obsessed with how users feel when they click a button, open pop-ups and other stuff. Now, I’m diving under the hood to build the logic that makes those things actually work. I’m transitioning from designing the interface to architecting the systems behind it.
 
-### 🚀 What I’m learning
-- Java for solid backend foundations (structures, patterns, clean practices).
-- Python for quick scripts, data wrangling, and automation.
-- Practical AI tools to bridge product ideas with real-world impact.
+### 🛠️ What’s on my desk right now
+* **Java Backend:** Currently in an intensive bootcamp, mastering design patterns, clean code, and robust architectures.
+* **Java Practice:** I enjoy solving logic challenges and building small utility scripts in my spare time. You can find repositories on my profile filled with these ideas and exercises where I test new concepts.
+* **Hardware Tinkering:** Bridging the gap between code and the physical world with my **Raspberry Pico 2**. If it has a sensor and can be automated, I’m probably messing with it.
 
-### 🛠️ Design × Code
-- User-centered design translated into build-ready features.
-- Fast loops: prototype → feedback → development.
-- Clear documentation so designers and engineers stay aligned.
+---
 
-### 🌟 What drives me
-- Blending design and engineering to ship memorable experiences.
-- Building simple, maintainable solutions that people actually enjoy using.
+### ☕ The Java Shift
+I am focusing on building a rock-solid backend foundation. I am moving away from visual prototypes to focus on the "engine" that powers the experience:
+* **Clean Code & Patterns:** Applying SOLID principles and design patterns to write professional, maintainable Java.
+* **Reliability:** Implementing Test-Driven Development (TDD) to ensure my backend logic is stable and scalable.
+* **Constant Practice:** My spare time is dedicated to solving exercises that sharpen my understanding of data structures and object-oriented programming.
 
-### 📚 Currently exploring
-- Java tooling and testing to write reliable services.
-- Python workflows for automation and data pipelines.
-- AI agent experiments to speed up product ideation.
+### 🎨 Frontend Experiments 
+When I get bored of the backend, I like to practice my frontend skills—even if they’re still a work in progress. After years of drag-and-drop in Figma, actually coding a layout can feel a bit incoherent at times, but I’m pushing through the learning curve. You’ll find some repositories where I’m experimenting with HTML, CSS, and trying to figure out how JavaScript actually works. Wish me luck!
 
-### 🤝 Let’s connect
-- 💼 LinkedIn: [Andrés Bejarano] (https://www.linkedin.com/in/andres-bejarano-hey/)
+### 🔌 Hardware & Logic Labs
+I use my **Raspberry Pi Pico 2** as a sandbox for low-level programming. My repository, **Pico Learning Labs**, documents my journey from basic signals to complex hardware interactions:
+* **Signal Processing:** Handling **ADC (Analog-to-Digital)** and **PWM (Pulse Width Modulation)** to interpret sensors and control hardware with precision.
+* **GPIO Architecture:** Managing pin configurations and interrupt logic to build reactive, real-world systems.
+* **MicroPython:** Prototyping fast-reacting systems that bridge the gap between software and physical components.
 
-- ✉️ Open to collaborations, projects, or bold ideas.
+---
 
-Feel free to reach out!🚀
+```mermaid
+%%{init: {"quadrantChart": {"interact": false}}}%%
+quadrantChart
+    title Career Transition & Learning Focus
+    x-axis Low Current Effort --> High Current Effort
+    y-axis Low Proficiency --> High Proficiency
+    "UX/UI Design": [0.1, 0.8]
+    "Java Backend": [0.9, 0.4]
+    "Hardware (Pico 2)": [0.4, 0.3]
+    "Frontend (JS/CSS)": [0.7, 0.2]
+```
+
+---
+
+### 🏃‍♂️ Away from the screen
+When the IDE is closed, I am usually pushing my physical limits in **Vienna**:
+* **Running:** Training for a future Marathon. It requires the same discipline as coding.
+* **Soccer:** My favorite way to reset my brain and stay active.
+
+---
+### 🤝 Let's connect
+* 💼 **LinkedIn:** [Andrés Bejarano](https://www.linkedin.com/in/andres-bejarano-hey/)
+* ✉️ Reach out if you want to talk about Java, UX-to-Dev transitions, or marathon training.
+
+---
+
+### 📈 My GitHub Stats
+![Andres's Stats](https://github-readme-stats.vercel.app/api?username=andres-bs12&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andres-bs12&layout=compact&theme=tokyonight&hide_border=true)
