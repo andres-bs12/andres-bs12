@@ -33,7 +33,7 @@ quadrantChart
     x-axis Low Current Effort --> High Current Effort
     y-axis Low Proficiency --> High Proficiency
     "UX/UI Design": [0.1, 0.8]
-    "Java Backend": [0.9, 0.4]
+    "Java Backend": [0.9, 0.6]
     "Hardware (Pico 2)": [0.4, 0.3]
     "Frontend (JS/CSS)": [0.7, 0.2]
 ```
