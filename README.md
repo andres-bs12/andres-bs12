@@ -8,6 +8,6 @@ Right now, I’m dedicated full-time to software engineering, building a deep fo
 
 When the IDE is closed, you’ll usually find me running, somewhere in the mountains, or cooling off in the Danube.
 
-🎨 Portfolio: andresbejarano.framer.website
+🎨 Portfolio: [Portfolio](https://andresbejarano.framer.website/)
 
-💼 LinkedIn: Andrés Bejarano
+💼 LinkedIn: [Andrés Bejarano](https://www.linkedin.com/in/andres-bejarano-hey/)
